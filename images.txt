@@ -3,3 +3,4 @@ apache/rocketmq:4.9.6
 apache/kafka
 wurstmeister/zookeeper
 wurstmeister/kafka
+provectuslabs/kafka-ui
