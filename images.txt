@@ -4,3 +4,4 @@ apache/kafka
 wurstmeister/zookeeper
 wurstmeister/kafka
 provectuslabs/kafka-ui
+yidadaa/chatgpt-next-web
