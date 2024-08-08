@@ -5,3 +5,4 @@ wurstmeister/zookeeper
 wurstmeister/kafka
 provectuslabs/kafka-ui
 yidadaa/chatgpt-next-web
+styletang/rocketmq-console-ng
