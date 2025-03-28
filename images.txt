@@ -1,3 +1,4 @@
+zhayujie/chatgpt-on-wechat
 nginx
 apache/rocketmq:4.9.6
 apache/kafka
@@ -7,4 +8,4 @@ provectuslabs/kafka-ui
 yidadaa/chatgpt-next-web
 styletang/rocketmq-console-ng
 mysql:5.7
-chatgpt-on-wechat
+
