@@ -9,4 +9,4 @@ yidadaa/chatgpt-next-web
 styletang/rocketmq-console-ng
 mysql:5.7
 minio/minio
-
+dbeaver/cloudbeaver
